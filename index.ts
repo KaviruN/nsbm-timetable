@@ -9,8 +9,8 @@ dotenvConfig();
 
 const config = {
 	name: "25.3-degree",
-	worksheet: "Plymouth 25.3 Y1S2",
-	timeTableStart: 10,
+	worksheet: "VU 25.2 Y1S2",
+	timeTableStart: 9,
 	dataIndex: 2,
 	summaryCell: "B3",
 	timeSlotRegex: /(\d+)\.(\d+) ([a-zA-Z]+)\s?-\s?(\d+)\.(\d+) ([a-zA-Z]+)/,
